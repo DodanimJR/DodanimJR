@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Future Back-end developer.</h3>
+<h3 align="center">Future Dev.</h3>
 
-- 🔭 I’m currently working on [DoReads](https://github.com/wmartzh/doreads-frontend)
+- 🔭 I’m currently studying
 
-- 🌱 I’m currently learning **TypeScript.**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [github.com/DodanimJR](github.com/DodanimJR)
 
