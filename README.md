@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">JavaScript Virtuoso: Mastering the Arts of Software and Web Development.</h3>
+<h3 align="center">A JavaScript Virtuoso: Mastering the Arts of Software and Web Development.</h3>
 
 - 👨‍💻 Check out my projects here --> [github.com/DodanimJR](github.com/DodanimJR)
 
 - 💬 Let's talk about **NodeJS, ReactJs.** 😁
 
-- 📫 Let's Create Together!
-If you have a web app idea or need assistance in bringing your project to life, I'm here to help! Let's collaborate and build something remarkable that leaves a lasting impact.
-👇
-<p align="left">
-<a href="https://linkedin.com/in/patrick-dodanim-castillo-flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-dodanim-castillo-flores" height="30" width="40" /></a>
-</p>
+## 📫  Let's Create Together!
+
+- If you have a web app idea or need assistance in bringing your project to life, 
+- I'm here to help! Let's collaborate and build something remarkable that leaves a lasting impact.
+   - <a href="https://linkedin.com/in/patrick-dodanim-castillo-flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-dodanim-castillo-flores" height="30" width="40" /></a>
    - **dodanimjunior24@gmail.com**
-
-
-
- 
-
 - ⚡ Random fact: **Ping Pong enthusiastic🏓**
 
 <h3 align="left">Languages and Tools:</h3>
