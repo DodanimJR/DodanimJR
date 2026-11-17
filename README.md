@@ -5,13 +5,17 @@
   Systems Engineer from Costa Rica 🇨🇷 · Customer Support Engineer at a US SaaS company · Co-building <b>Teknika CR</b> · CPIC member · Bilingual (ES/EN)
 </p>
 
+<p align="center">
+  🌐 <a href="https://dodanimjr.github.io/"><b>dodanimjr.github.io</b></a> · portfolio, projects & CV
+</p>
+
 ---
 
 ### 🚀 Recent projects
 
 | Project | What it is | Stack / role |
 |---|---|---|
-| **[Teknika CR](https://TU-DOMINIO-AQUI)** | Costa Rican firm offering AI consulting, training, web development and tech support. I built the website and work on its AI and web solutions. | Web development, AI solutions |
+| **[Teknika CR](https://teknika.co.cr/)** | Costa Rican firm offering AI consulting, training, web development and tech support. I built the website and work on its AI and web solutions. | Web development, AI solutions |
 | **[Live Translation Service](https://iglesia.unadeca.net/)** | Real-time transcription and Spanish → English translation of church services, shown live on phones with adjustable text size and dark mode. | Backend + frontend |
 | **[UNADECA Institutional Repository](https://repositorio.unadeca.ac.cr/)** | Deployed and customized DSpace with the university's branding on an on-premise physical server. | DSpace, Linux, on-prem server |
 
@@ -56,6 +60,7 @@
 
 Have a web app idea or need help bringing a project to life? Reach out.
 
+<a href="https://dodanimjr.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C9773F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/patrick-dodanim-castillo-flores" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:dodanimjunior24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
